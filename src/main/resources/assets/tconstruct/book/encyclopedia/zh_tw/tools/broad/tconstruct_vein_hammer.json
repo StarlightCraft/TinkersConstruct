@@ -2,7 +2,7 @@
   "tool": "tconstruct:vein_hammer",
   "text": [
     { "text": "礦脈錘可以挖掘石頭方塊以及相鄰的同種方塊，最遠範圍為2格。" },
-    { "text": "「延展」強化每級可增加1格最遠挖掘範圍。", "paragraph": true }
+    { "text": "「延展」每級可增加1格最遠挖掘範圍。", "paragraph": true }
   ],
   "properties": [
     "+3 攻擊力",
