@@ -10,22 +10,10 @@ tools.tconstruct.ichor_staff=靈漿手杖
 tools.tconstruct.ender_staff=終界史萊姆手杖
 armor=盔甲
 
-materials_harvest_1=一級近程材料
-materials_harvest_1.subtext=一級近程材料用於製作近戰武器或採掘工具。
-materials_harvest_2=二級近程材料
-materials_harvest_2.subtext=二級近程材料用於製作近戰武器或採掘工具。
-materials_harvest_3=三級近程材料
-materials_harvest_3.subtext=三級近程材料用於製作近戰武器或採掘工具。
-materials_harvest_4=四級近程材料
-materials_harvest_4.subtext=四級近程材料用於製作近戰武器或採掘工具。
-materials_ranged_1=一級遠程材料
-materials_ranged_1.subtext=一級遠程材料用於製作遠程武器。
-materials_ranged_2=二級遠程材料
-materials_ranged_2.subtext=二級遠程材料用於製作遠程武器。
-materials_ranged_3=三級遠程材料
-materials_ranged_3.subtext=三級遠程材料用於製作遠程武器。
-materials_ranged_4=四級遠程材料
-materials_ranged_4.subtext=四級遠程材料用於製作遠程武器。
+materials_harvest=近程材料
+materials_harvest.subtext=這些材料可以製作出近戰武器或採掘工具。
+materials_ranged=遠程材料
+materials_ranged.subtext=這些材料可以製作出遠程武器。
 materials_skull=史萊姆頭顱
 materials_skull.subtext=本章節介紹了所有型別的頭顱製成的史萊姆頭顱的效果。
 
