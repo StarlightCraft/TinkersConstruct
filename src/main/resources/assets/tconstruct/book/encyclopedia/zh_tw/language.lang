@@ -15,7 +15,7 @@ materials_harvest.subtext=這些材料可以製作出近戰武器或採掘工具
 materials_ranged=遠程材料
 materials_ranged.subtext=這些材料可以製作出遠程武器。
 materials_skull=史萊姆頭顱
-materials_skull.subtext=本章節介紹了所有型別的頭顱製成的史萊姆頭顱的效果。
+materials_skull.subtext=本章節介紹了所有種類的頭顱製成的史萊姆頭顱的效果。
 
 upgrades=升級強化
 upgrades.subtext=每一把工具都有一些升級強化槽，不過數量有限。
