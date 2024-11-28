@@ -9,6 +9,7 @@
       "paragraph": true
     }
   ],
+  "tool_filter": "tconstruct:modifiable/ranged",
   "effects": [
     "箭矢抵消少部分護甲值",
     "多個等級，每個等級進一步提升作用效果",
