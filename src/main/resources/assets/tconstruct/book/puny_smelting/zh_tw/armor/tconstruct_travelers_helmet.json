@@ -1,9 +1,9 @@
 {
   "tool": "tconstruct:travelers_helmet",
   "text": [
-    { "text": "它適用於「King」或是「Lemmings」亦或是「King Lemmings」。" },
+    { "text": "它適用於「King」或是「Lemmings」亦或是 「King Lemmings」。" },
 	{
-      "text": "一副好的護目鏡可以讓你的冒險更加安全，帶來良好的視野，還能讓你散發出國王（King）的氣質。", "paragraph": true
+      "text": "一副好的護目鏡能讓你的冒險更加安全，帶來良好的視野，還能讓你散發出國王（King） 的氣質。", "paragraph": true
     }
   ],
   "properties": [

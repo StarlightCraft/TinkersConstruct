@@ -3,7 +3,7 @@ melter=熔化爐
 moving_fluids=流體轉移
 casting=鑄造
 melee_harvest_materials=二級近程材料
-melee_harvest_materials.subtext=這些材料可以鑄造成近戰武器或採掘工具的工具部件。
+melee_harvest_materials.subtext=這些材料可以鑄造成近戰武器或採掘工具的 工具部件。
 ranged_materials=二級遠程材料
 ranged_materials.subtext=這些材料可以鑄造成像弓那樣的遠程武器的工具部件。
 
@@ -28,6 +28,6 @@ upgrades.group_armor.leggings=護腿升級
 upgrades.group_armor.boots=靴子升級
 
 slotless=無槽位強化
-slotless.subtext=這些強化不需要任何槽位就能附加，如果你願意的話可以都加上。
+slotless.subtext=這些強化不需要任何槽位就能附加，如果你 願意的話可以都加上。
 slotless.group_slotless=無槽位強化
 slotless.group_bonus_upgrades=額外槽位強化
