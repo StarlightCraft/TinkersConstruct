@@ -258,7 +258,7 @@
 
   "item.tconstruct.modifier_crystal": "強化水晶",
   "item.tconstruct.modifier_crystal.format": "%s水晶",
-  "item.tconstruct.modifier_crystal.missing": "定義強化類別的NBT缺失或無效",
+  "item.tconstruct.modifier_crystal.missing": "定義強化種類的NBT缺失或無效",
   "item.tconstruct.modifier_crystal.tooltip": "附加於工具後對應強化等級增加1級並消耗相應的強化槽",
   "item.tconstruct.modifier_crystal.modifier_id": "強化ID: %s",
 
@@ -267,7 +267,7 @@
   "item.tconstruct.creative_slot.abilities": "創造模式能力槽",
   "item.tconstruct.creative_slot.souls": "創造模式靈魂槽",
   "item.tconstruct.creative_slot.defense": "創造模式防禦槽",
-  "item.tconstruct.creative_slot.missing": "定義強化槽類別的NBT缺失或無效",
+  "item.tconstruct.creative_slot.missing": "定義強化槽種類的NBT缺失或無效",
   "item.tconstruct.creative_slot.tooltip": "為工具增加1個額外的%s槽",
 
   "item.tconstruct.copper_can": "銅罐",
@@ -1945,7 +1945,7 @@
   "modifier.tconstruct.blast_protection.resistance": "爆炸抗性",
   "modifier.tconstruct.magic_protection": "魔法保護",
   "modifier.tconstruct.magic_protection.flavor": "強大的魔法需要強大的魔力！",
-  "modifier.tconstruct.magic_protection.description": "抵禦藥水等魔法類別傷害",
+  "modifier.tconstruct.magic_protection.description": "抵禦藥水等魔法種類傷害",
   "modifier.tconstruct.magic_protection.resistance": "魔法抗性",
   "modifier.tconstruct.projectile_protection": "投射物保護",
   "modifier.tconstruct.projectile_protection.flavor": "叮叮咚！",
@@ -2654,7 +2654,7 @@
   "gui.tconstruct.crafting_station.uncraftable": "玩家尚無法制作該物品",
 
   "gui.tconstruct.part_builder": "部件製造台",
-  "gui.tconstruct.part_builder.info": "在這裡你能製作工具部件，從而實現你的工匠之夢。\n\n要製作一個工具部件，你需要將模具放入左側的空槽，並選擇目標部件類別。接著在右側的槽中放入材料，即可製成對應材料的對應部件。",
+  "gui.tconstruct.part_builder.info": "在這裡你能製作工具部件，從而實現你的工匠之夢。\n\n要製作一個工具部件，你需要將模具放入左側的空槽，並選擇目標部件種類。接著在右側的槽中放入材料，即可製成對應材料的對應部件。",
   "gui.tconstruct.part_builder.material_value": "材料值：%s",
   "gui.tconstruct.part_builder.cost": "模具消耗：%s",
   "gui.tconstruct.part_builder.trait": "材料特性",
@@ -2718,8 +2718,8 @@
   "recipe.tconstruct.enchantment_converting.abilities.title": "能力強化提取",
   "recipe.tconstruct.enchantment_converting.defense.title": "防禦強化提取",
   "recipe.tconstruct.enchantment_converting.modifiers.title": "強化提取",
-  "recipe.tconstruct.enchantment_converting.description.lost": "從附魔書中選取給定類別的強化並提取為強化水晶。附魔物品將會消失。",
-  "recipe.tconstruct.enchantment_converting.description.keep": "從附魔書中選取給定類別的強化並提取為強化水晶。該物品的附魔將會移除並返還。",
+  "recipe.tconstruct.enchantment_converting.description.lost": "從附魔書中選取給定種類的強化並提取為強化水晶。附魔物品將會消失。",
+  "recipe.tconstruct.enchantment_converting.description.keep": "從附魔書中選取給定種類的強化並提取為強化水晶。該物品的附魔將會移除並返還。",
   "recipe.tconstruct.enchantment_converting.no_enchantments": "物品沒有任何可提取的附魔",
   "recipe.tconstruct.enchantment_converting.too_few": "需要更多的配方物品以轉換更高等級的附魔",
   
@@ -2794,10 +2794,10 @@
 
   "_comment": "Commands",
 
-  "command.tconstruct.slot_type.not_found": "未知槽位類別%s",
+  "command.tconstruct.slot_type.not_found": "未知槽位種類%s",
   "command.tconstruct.fluid.not_found": "未知流體%s",
-  "command.tconstruct.stat_type.not_found": "未知數據類別%s",
-  "command.tconstruct.stat_type.wrong_type": "無效的數據類別%s，必須從%s處繼承",
+  "command.tconstruct.stat_type.not_found": "未知數據種類%s",
+  "command.tconstruct.stat_type.wrong_type": "無效的數據種類%s，必須從%s處繼承",
   "command.tconstruct.material.not_found": "未知材料%s",
   "command.tconstruct.modifier.not_found": "未知強化%s",
   "command.tconstruct.modifier_hook.not_found": "未知強化鉤子%s",
@@ -2970,7 +2970,7 @@
   "advancements.tconstruct.world.slimesuit.title": "史萊姆套裝",
   "advancements.tconstruct.world.slimesuit.description": "製作出全套的史萊姆套裝",
   "advancements.tconstruct.world.slimeskull.title": "頭顱收藏家",
-  "advancements.tconstruct.world.slimeskull.description": "合成每種類別的史萊姆頭顱",
+  "advancements.tconstruct.world.slimeskull.description": "合成每種種類的史萊姆頭顱",
   "advancements.tconstruct.world.clay_island.title": "黏土島",
   "advancements.tconstruct.world.clay_island.description": "在空中找到一座黏土島",
   "advancements.tconstruct.world.slime_collector.title": "集黏者",
