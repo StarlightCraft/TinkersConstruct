@@ -1455,8 +1455,8 @@
   "material.tconstruct.necrotic_bone.skull_encyclopedia": "普通攻擊給予敵人凋零效果。飲用鮮奶後效果速度更快",
 
   "material.tconstruct.chorus": "歌萊",
-  "material.tconstruct.chorus.flavor": "不只是終界使者，還有終界娘和終界孩",
-  "material.tconstruct.chorus.encyclopedia": "防止目標瞬移，每級+5秒。",
+  "material.tconstruct.chorus.flavor": "不只是終界使者，還有終界娘和終界孩。",
+  "material.tconstruct.chorus.encyclopedia": "防止目標瞬移，每級+5秒",
   "material.tconstruct.chorus.ranged": "防止目標瞬移，每級+5秒，也使得箭矢能擊中終界使者",
 
   "material.tconstruct.string": "線",
@@ -1511,7 +1511,7 @@
   "material.tconstruct.bloodbone.encyclopedia": "在生命值低時提升攻擊力，剩餘1顆心時每級使攻擊傷害+4",
   "material.tconstruct.bloodbone.ranged": "在生命值低時提升拉弓速度，剩餘1顆心時每級使拉弓速度+0.25",
   "material.tconstruct.bloodbone.skull_flavor": "令人毛骨悚然",
-  "material.tconstruct.bloodbone.skull_encyclopedia": "投射物會使攻擊目標獲得緩速效果。飲用鮮奶後，近戰攻擊也會使目標獲得緩速效果，並且等級更高。",
+  "material.tconstruct.bloodbone.skull_encyclopedia": "投射物會使攻擊目標獲得緩速效果。飲用鮮奶後，近戰攻擊也會使目標獲得緩 速效果，並且等級更高。",
 
   "material.tconstruct.rose_gold": "玫瑰金",
   "material.tconstruct.rose_gold.flavor": "免責聲明：不是用真的玫瑰做的。",
@@ -1532,7 +1532,7 @@
   "__comment": "Tier 3 Materials",
   "material.tconstruct.slimesteel": "史萊姆鋼",
   "material.tconstruct.slimesteel.flavor": "你要把史萊姆加上鋼才能獲得史萊姆鋼。",
-  "material.tconstruct.slimesteel.encyclopedia": "史萊姆覆層+25點，每級增加最大值的50%",
+  "material.tconstruct.slimesteel.encyclopedia": "史萊姆覆層+25點，每級增加最大值的 50%",
 
   "material.tconstruct.nahuatl": "納瓦特爾木",
   "material.tconstruct.nahuatl.flavor": "這真的不是黑曜石，如果是的話它的名字就會叫做「黑曜石」了。",
@@ -1541,11 +1541,11 @@
   "material.tconstruct.amethyst_bronze": "紫晶青銅",
   "material.tconstruct.amethyst_bronze.flavor": "別和青銅搞混了。",
   "material.tconstruct.amethyst_bronze.encyclopedia": "挖掘不需要正確工具採集的方塊時，每級挖掘速度+0.5，工具種類不匹配時也有效",
-  "material.tconstruct.amethyst_bronze.ranged": "每級初速度+0.1，但同時限定箭矢射出方向；前三級分別將方向限定為32、16、8向",
+  "material.tconstruct.amethyst_bronze.ranged": "每級初速度+0.1，但同時限定箭矢射出方向；前三級分別將方向限定為32、16、 8向",
 
   "material.tconstruct.pig_iron": "生鐵",
   "material.tconstruct.pig_iron.flavor": "這是最佳材料，不接受反駁。",
-  "material.tconstruct.pig_iron.encyclopedia": "可以吃，食用後每級增加1點飢餓值和0.1點飽食度",
+  "material.tconstruct.pig_iron.encyclopedia": "可以吃，食用後每級增加1點飢餓值和 0.1點飽食度",
   "material.tconstruct.pig_iron.skull_flavor": "惹惱我可沒有好下場！",
   "material.tconstruct.pig_iron.skull_encyclopedia": "受到來自其他生物的傷害時獲得15秒力量效果",
 
@@ -1605,7 +1605,7 @@
 
   "material.tconstruct.ender_pearl": "終界珍珠",
   "material.tconstruct.ender_pearl.skull_flavor": "終界使者懂得如何迴避危險，科學家也是。他們幾個禮拜以來一直漠視我的採訪邀請！",
-  "material.tconstruct.ender_pearl.skull_encyclopedia": "受到投射物攻擊時自動傳送，受到近戰攻擊時有一定機率隨機傳送。冷卻時間15秒",
+  "material.tconstruct.ender_pearl.skull_encyclopedia": "受到投射物攻擊時自動傳送，受到近戰攻擊時有一定機率隨機傳送。冷卻時間 15秒",
 
   "material.tconstruct.rotten_flesh": "腐肉",
   "material.tconstruct.rotten_flesh.skull_flavor": "還行吧",
@@ -1663,7 +1663,7 @@
   "material.tconstruct.whitestone": "白石",
   "material.tconstruct.whitestone.end": "終界石",
   "material.tconstruct.whitestone.flavor": "拿起你那些毫無用處的白色金屬和石頭，做個有用的工具吧",
-  "material.tconstruct.whitestone.encyclopedia": "挖掘石頭時有機率石盾+3，每級機率+20%",
+  "material.tconstruct.whitestone.encyclopedia": "挖掘石頭時有機率石盾+3，每級機率 +20%",
 
   "material.tconstruct.aluminum": "鋁",
   "material.tconstruct.aluminum.flavor": "前代奢侈品，現代尋常物。",
